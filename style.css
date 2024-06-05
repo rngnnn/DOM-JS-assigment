@@ -1,0 +1,25 @@
+
+body{
+
+
+    justify-content: center; 
+    align-items: center;    
+        padding: 0;  
+    margin: 0;
+background-color: rgb(219, 206, 231);
+
+}
+
+
+.bir{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    max-width: 100%;
+            height: auto;
+
+    border: 6px solid rgb(229, 159, 239);
+   
+}
